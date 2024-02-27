@@ -1,4 +1,4 @@
-** Parse vcf contacts file to csv
+### Parse vcf contacts file to csv
 
 Go to icloud, export your contacts as vcf file.
 Then run this script to convert it to csv file.
